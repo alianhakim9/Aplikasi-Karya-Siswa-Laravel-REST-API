@@ -1,0 +1,1 @@
+ssh -o ServerAliveInterval=60 -R ali:80:127.0.0.1:8000 -i C:\Users\alian\.ssh\id_rsa serveo.net

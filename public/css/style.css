@@ -1,0 +1,17 @@
+:root {
+    --primaryNavy: #050a26;
+    --primaryLightNavy: rgb(15, 29, 112);
+    --accentOrange: #ff6b00;
+}
+
+.bg-primary {
+    background-color: var(--primaryNavy) !important;
+}
+
+.accent {
+    background-color: var(--accentOrange) !important;
+}
+
+.bg-light-navy {
+    background-color: var(--primaryLightNavy);
+}

@@ -1,0 +1,33 @@
+body {
+    background-color: #f7fafc;
+}
+
+* {
+    font-family: "Roboto", sans-serif;
+}
+
+.bg-primary-navy {
+    background-color: #073863;
+}
+
+.bg-primary-navy-light {
+    background-color: #236fb3;
+}
+
+.bg-primary-navy-dark {
+    background-color: #042542;
+}
+
+.bg-primary-orange {
+    background-color: #f07533;
+}
+
+.bg-primary-gray {
+    background-color: #98999b;
+}
+
+footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}

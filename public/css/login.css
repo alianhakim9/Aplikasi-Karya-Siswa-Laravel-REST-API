@@ -1,0 +1,6 @@
+.login {
+    height: 100vh;
+    /* background-image: url("/img/textures/dots_texture.png"); */
+    background-repeat: no-repeat;
+    background-size: cover;
+}
